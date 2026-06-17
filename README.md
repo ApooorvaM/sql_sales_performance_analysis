@@ -195,7 +195,7 @@ Run the scripts located in:
 
 Import customer, product, and sales datasets.
 
-Step 4: Execute Analysis Scripts
+### Step 4: Execute Analysis Scripts
 
 Run queries from:
 
